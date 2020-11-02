@@ -1,6 +1,6 @@
 All private information has been replaced by ##########
 
-The file demand-prediction.py follows the following steps:
+The file demand_prediction.py follows the following steps:
 
 1. CeleryBeat runs the script once a day and checks if a .pkl file exists with today's datetime.date in the filename. If not:
 2. GET requests are served to a demand data and weather forecast API endpoint set up on the application and parsed as json data.
