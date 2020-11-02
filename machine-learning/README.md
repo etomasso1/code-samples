@@ -1,4 +1,4 @@
-All private information has been replaced by ##########
+All private information has been replaced by ####
 
 The file demand_prediction.py follows the following steps:
 
